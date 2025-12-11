@@ -1,0 +1,5 @@
+{
+  "name": "Random Image Placeholder Fetcher",
+  "description": "A simple tool to fetch random placeholder images from the Unsplash Source API based on user-defined keywords and dimensions. The app provides a clean interface to generate and display images instantly.",
+  "requestFramePermissions": []
+}
