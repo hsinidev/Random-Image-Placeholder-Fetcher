@@ -6,7 +6,7 @@
 
 **Doodax** is a high-performance, aesthetically stunning web application designed for developers, designers, and creators. It eliminates the friction of finding placeholder images by providing an instant, query-based generation tool powered by the Unsplash API.
 
-> **Live Application:** [https://doodax.com](https://doodax.com)
+> **Live Application:** [https://doodax.com](https://doodax.com/tools/random-image-placeholder-fetcher/index.html)
 
 ## ✨ Key Features
 
