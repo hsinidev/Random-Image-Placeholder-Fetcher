@@ -1,18 +1,22 @@
 <div align="center">
-# 🚀 Random Image Placeholder Fetcher
-### *Modern, High-Performance JavaScript Solution & Developer Suite*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-JavaScript-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Random%20Image%20Placeholder&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Random Image Placeholder Fetcher Header Banner" />
+
+  <h1>🚀 Random Image Placeholder Fetcher</h1>
+  <p><em>Modern, High-Performance JavaScript Solution & Developer Suite</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge" alt="Language: TypeScript" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-JavaScript-6366f1?style=for-the-badge" alt="Framework: JavaScript" /></a>
+    <a href="https://github.com/hsinidev/Random-Image-Placeholder-Fetcher"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Random Image Placeholder Fetcher** is a production-grade **TypeScript** platform engineered for high reliability, clean architectural separation, and frictionless developer workflow.
@@ -25,6 +29,7 @@
 - **Production Ready**: Built-in error resilience, validation, and structured logging.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `TypeScript`
@@ -32,79 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# Doodax - Premium Random Image Placeholder Generator
-
-
-
-> **Live Application:** [https://doodax.com](https://doodax.com/tools/random-image-placeholder-fetcher/index.html)
-
-## ✨ Key Features
-
-- **🌌 Immersive Cosmic UI**: Features a deep, multi-layered animated nebula and starfield background.
-- **⚡ Instant Generation**: Fetches high-resolution images via the Unsplash Source API with zero latency.
-- **🎨 In-Browser Studio**: Apply real-time filters (Grayscale, Sepia, Blur) and transformations (Flip) without external tools.
-- **📱 Responsive & Friendly**: A "User First" design that looks perfect on mobile, tablet, and desktop.
-- **🔍 SEO Optimized**: Fully integrated Schema.org JSON-LD, OpenGraph tags, and semantic HTML5 structure.
-- **🛡️ Privacy Focused**: Zero-backend architecture ensures no user data is stored or tracked.
-
-## 📂 Project Structure
-
-```bash
-.
-├── components/          # React UI Components
-│   ├── HomePage.tsx     # Core Application Logic & SEO Article
-│   ├── BlogListPage.tsx # Blog Listing View
-│   └── ...
-├── lib/                 # Utilities & Content
-│   ├── static-content.ts# Modal Content (Privacy, Terms, About)
-│   └── blog-posts.ts    # Blog Data
-├── public/              # Static Assets (SEO)
-│   ├── robots.txt       # Crawler Directives
-│   ├── sitemap.xml      # Search Engine Map
-│   └── favicon.svg      # Branding
-├── App.tsx              # Main Routing & Modal Architecture
-├── style.css            # Global Styles & Cosmic Animations
-└── index.html           # Entry Point with SEO Meta Tags
-```
-
-## 🚀 Getting Started
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/hsinidev/doodax.git
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Run the development server**
-   ```bash
-   npm start
-   ```
-
-## 🛠 Technologies
-
-- **Frontend**: React 19, TypeScript
-- **Styling**: Tailwind CSS, CSS3 Keyframe Animations, Glassmorphism
-- **API**: Unsplash Source API
-
-
-This project is open source. Images generated are subject to the [Unsplash Terms of Service](https://unsplash.com/terms).
-
----
-<div align="center">
-  <p>Powered by <strong>HSINI MOHAMED</strong></p>
-  <p>
-    <a href="https://github.com/hsinidev">GitHub</a> • 
-    <a href="mailto:hsini.web@gmail.com">Contact</a>
-  </p>
-</div>
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
